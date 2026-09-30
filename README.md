@@ -2,6 +2,10 @@
 
 Página estática responsiva em HTML/CSS/JavaScript, com apresentação, três projetos, filtro por área e links para código. Sem frameworks, rastreadores ou recursos externos. Projeto preparado com apoio de IA.
 
+## Site publicado
+
+[Abrir portfólio](https://diogolazzarotto.github.io/portfolio-web/). Hospedado no GitHub Pages a partir da branch `main`, pasta raiz.
+
 ## Executar
 
 ```bash
@@ -16,7 +20,7 @@ Paleta grafite, azul e ciano; tipografia do sistema; layout responsivo. Estrutur
 
 ## Limites
 
-Links apontam para os repositórios independentes dos projetos. A página não hospeda os servidores Python. Não há formulário de contato nem dados pessoais inventados. Publicar os arquivos estáticos exige configurar um provedor; nenhum endereço de site publicado é presumido.
+Links apontam para os repositórios independentes dos projetos. A página não hospeda os servidores Python. Não há formulário de contato nem dados pessoais inventados. O site está publicado no GitHub Pages; somente a página estática é hospedada, os servidores Python são executados localmente.
 
 ## Obter o projeto
 
