@@ -38,3 +38,9 @@ cd portfolio-web
 Os cards incluem prévias dos resultados executados nos três projetos, com dados fictícios. As imagens são SVG locais, com texto alternativo e carregamento sob demanda. Não representam screenshots de interfaces.
 
 O GitHub Actions verifica a sintaxe do JavaScript e as referências locais em cada push/pull request. Execute localmente: `node --check app.js` e `python scripts/check_site.py`.
+
+## Contato profissional
+
+[E-mail: lazzarotto.diogo44@gmail.com](mailto:lazzarotto.diogo44@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/diogo-vinicius-lazzarotto-ab908a402)
