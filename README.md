@@ -1,6 +1,8 @@
 # Portfólio web
 
-Página estática responsiva em HTML/CSS/JavaScript, com apresentação, três projetos, filtro por área e links para código. Sem frameworks, rastreadores ou recursos externos. Projeto preparado com apoio de IA.
+[![Verificações do site](https://github.com/DiogoLazzarotto/portfolio-web/actions/workflows/checks.yml/badge.svg)](https://github.com/DiogoLazzarotto/portfolio-web/actions/workflows/checks.yml)
+
+Página estática responsiva em HTML/CSS/JavaScript, com apresentação, três projetos, filtro por área e links para código. Sem frameworks, rastreadores ou recursos externos. Projeto demonstrativo.
 
 ## Site publicado
 
@@ -30,3 +32,9 @@ cd portfolio-web
 ```
 
 [Voltar ao perfil](https://github.com/DiogoLazzarotto)
+
+## Prévias e verificações
+
+Os cards incluem prévias dos resultados executados nos três projetos, com dados fictícios. As imagens são SVG locais, com texto alternativo e carregamento sob demanda. Não representam screenshots de interfaces.
+
+O GitHub Actions verifica a sintaxe do JavaScript e as referências locais em cada push/pull request. Execute localmente: `node --check app.js` e `python scripts/check_site.py`.
